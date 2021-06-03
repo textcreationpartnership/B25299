@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ancilla grammaticæ, or, Short rules of spelling orthographie, pointing, construing, parsing, making Latine, variation, imitation, &amp;c. Compiled for the use of young scholars by R.A. Johnson.</title>
+            <author>Johnson, R. A. (Ralph A.)</author>
+         </titleStmt>
+         <extent>Approx. 18KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25299</idno><idno type="EEBO-CITATION">48133570</idno>
+  <idno type="VID">207385</idno>
+  <idno type="EEBO-PROQUEST">2240871940</idno>
+  
+            <idno type="STC">Wing J785A</idno>
+            <idno type="OCLC">48133570</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25299)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207385)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2092:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ancilla grammaticæ, or, Short rules of spelling orthographie, pointing, construing, parsing, making Latine, variation, imitation, &amp;c. Compiled for the use of young scholars by R.A. Johnson.</title>
+                  <author>Johnson, R. A. (Ralph A.)</author>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Pierrepont,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print bleed-through.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">English language --  Orthography and spelling --  Early works to 1800.</term>
+               <term type="topical_term">English language --  Grammar --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207385:1"/>
+            <pb facs="tcp:207385:1"/>
+            <p>
+               <hi>ANCILLA GRAMMATICAE▪</hi> Or, Short RULES OF SPELLING Orthographie, Pointing, Construing, Parsing, making Latine, Variation, Imitation, &amp;c.</p>
+            <p>Compiled for the Use of young Scholars.</p>
+            <p>By <hi>R A. JOHNSON</hi> of <hi>Brignol</hi>-School in <hi>Yorkshire.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho. Pierrepont</hi> at the Sun in S<seg rend="sup">t</seg>
+               <hi>Paul</hi>'s Church-yard. 1662.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:207385:2"/>
+            <pb n="1" facs="tcp:207385:2"/>
+            <head>RƲLES of Spelling.</head>
+            <list>
+               <item>I. <seg rend="decorInit">E</seg>Very Syllable must have a Vowel (<hi>a, e, i, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, u, y,</hi>) for without one of these there can be no found.</item>
+               <item>II. The Consonant must be taken to the follow<g ref="char:EOLhyphen"/>ing Syllable, as <hi>A-dam, A-men,</hi> not <hi>Ad-am, Am-en.</hi>
+               </item>
+               <item>III. If there be two Consonants together, the one goes to the former syllable, the other to the latter, as <hi>mel-l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s, fol-lie.</hi>
+               </item>
+               <item>IV. Two Consonants in the middle of a word may not be parted, if they may be joyned in the beginning, as <hi>a-stray, e-spy.</hi>
+               </item>
+               <item>V. Compound words are commonly resolved in<g ref="char:EOLhyphen"/>to their parts, as <hi>trans-eo, per-ago, sus-tuli▪</hi>
+               </item>
+            </list>
+         </div>
+         <div type="part">
+            <head>RƲLES of Orthographie.</head>
+            <list>
+               <item>1. Accustom your selves to pronounce the words as you reade them, very distinctly, or by syllables, for as you pronounce them, so will they settle in your memorie<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</item>
+               <pb n="2" facs="tcp:207385:3"/>
+               <item>2. Observe the <hi>Radix</hi> of words, and the Supines of Verbs, and they will direct to write right, thus you may know, that <hi>Mansion</hi> is written with (<hi>s), Station</hi> with (<hi>t</hi>), because they are derived from the Supines <hi>Mansum, Statum.</hi>
+               </item>
+               <item>3. (<hi>s</hi>) Must not be written after (<hi>x</hi>), as <hi>excribo,</hi> not <hi>exscribo,</hi> but Authors in compounded words often use to write it.</item>
+               <item>4. The first Letter in a sentence, all proper names, and commonly Appellatives, must be written with great Letters, so (I) <hi>per se,</hi> as <hi>Thomas, London, Co<g ref="char:EOLhyphen"/>lonel, Commitee, Parliament, &amp;c.</hi>
+               </item>
+               <item>5. No Latine words end in <hi>ous, ance, ence, once, ome,</hi> or any double letter, but in <hi>us, ans, ens, ons, um.</hi>
+               </item>
+               <item>6. English words seldom end in <hi>us, ans, ens, ons, i, a:</hi> but in <hi>ous, ance, ence, once, y,</hi> or <hi>ie, ay.</hi>
+               </item>
+               <item>7. Some English words are not pronounced as they are writ, or have redundant letters, as <hi>people, reign, raze, tongue, debt, rogue, beauty, pub<g ref="char:EOLhyphen"/>lick▪ &amp;c.</hi>
+               </item>
+               <item>8. Som words are Pronounced alike, but writ di<g ref="char:EOLhyphen"/>versly, as <hi>hare, hair: bear, beer, bier: rain, reign: their, there.</hi>
+               </item>
+               <item>9. When a word is pronounced flatly or long, it must have an (<hi>e</hi>) at the end, but when sharply or short it must have none: as <hi>non, none: quite, quit: dam, dame.</hi>
+               </item>
+               <item>10. Write not (<hi>r</hi>) after (<hi>g</hi>) in the end, unlesse when (<hi>g</hi>) hath the sound of (j) consonant, as <hi>strange, infringe.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="part">
+            <pb n="3" facs="tcp:207385:3"/>
+            <head>RƲLES for Pointing.</head>
+            <list>
+               <item>1. A <hi>Comma</hi> (,) used at the end of every sentence, and in verse, when words are transplaced.</item>
+               <item>2. A <hi>Colon</hi> (:) used in the middle of a period, con<g ref="char:EOLhyphen"/>sisting of two equal parts.</item>
+               <item>3. A <hi>Period</hi> (.) used at the end of a perfect sentence, <hi>viz.</hi> when the sense is finished.</item>
+               <item>4. A note of <hi>Interrogation</hi> (?) used when a question is asked.</item>
+               <item>5. A note of <hi>Exclamation</hi> (!) used, when we ex<g ref="char:EOLhyphen"/>press any thing with wonder.</item>
+               <item>6. A <hi>Parenthesis</hi> () used when a sentence is put within another, which yet may be left out, and the sense not destroyed.</item>
+               <item>7. <hi>A Subunio</hi> (-) used, 1. When two whole words are put together, as <hi>pale-faced.</hi> Or 2. When one part of the word is writ at the end of the line, and the other at the beginning of the next.</item>
+               <item>8. A <hi>Dialysis</hi> (") used when a diphthong is parted into two syllables, as <hi>aquäi.</hi>
+               </item>
+               <item>9. An Induction used to bring in a word Inter<g ref="char:EOLhyphen"/>lined (<seg rend="sup">)</seg>.</item>
+               <item>10. An <hi>Apostrophus</hi> used when a letter is cast out, as <hi>tanton</hi> (')</item>
+               <item>11. An acute tone (') used to distinguish doubtful quantities, as <hi>cécidit, cec<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dit.</hi>
+               </item>
+               <item>12. A grave tone (`) used to distinguish adverbs from other words, as <hi>stultè, unà, seriò, palàm.</hi>
+               </item>
+               <pb n="4" facs="tcp:207385:4"/>
+               <item>13. A circumflex tone (<seg rend="sup">)</seg> used over Ablat. cases of the first Genit. cases of the four declensions, and words syncopated or contracted.</item>
+            </list>
+         </div>
+         <div type="part">
+            <head>RƲLES for Construing Gram.</head>
+            <list>
+               <head>Pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cognita.</head>
+               <item>1. Reade over the sentence to a period, observing the general scope of the matter.</item>
+               <item>2. Finde the principal Verb, and then the Nomi<g ref="char:EOLhyphen"/>nant. This done;</item>
+            </list>
+            <list>
+               <head>Rule.</head>
+               <item>1. Take the Vocative case, or what supplies the place thereof, as <hi>Adverb. Conjunct. Interject.</hi>
+               </item>
+               <item>2. Take the Nominant, and what depends there<g ref="char:EOLhyphen"/>on, as <hi>Adjective, Genitive case, Gerund.</hi>
+               </item>
+               <item>3. Take the Verb with what depends thereon, as <hi>Infinitive mood, Participle, S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pine.</hi>
+               </item>
+               <item>4. Take casual words in this order.
+<list>
+                     <item>1. Thing</item>
+                     <item>2. Person</item>
+                     <item>3. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>he rest take in order of cases.</item>
+                  </list>
+               </item>
+               <item>5. When any casual word hath much depending on it, cast it back to the last place.</item>
+               <item>6. Relatives and Interrogatives trouble this or<g ref="char:EOLhyphen"/>der, being taken before the Verb which they should follow.</item>
+               <item>7. A Parenthesis or Subjunctive sentence must be construed alone, and taken where the sense gives best room</item>
+               <item>8. Be sure, never in cons<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rui<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g to m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke non-sense, or to crosse Grammar.</item>
+            </list>
+         </div>
+         <div type="part">
+            <pb n="5" facs="tcp:207385:4"/>
+            <head>RƲLES for construing Rhetorically.</head>
+            <list>
+               <item>1. Give every phrase or proverb a suitable Eng<g ref="char:EOLunhyphen"/>lish one.</item>
+               <item>2. Resolve Infinitive and absolute Sentences, as <hi>me duce,</hi> When I am, &amp;c.</item>
+               <item>3. Express Impersonals with their casual words personally, as <hi>tibi licet,</hi> thou mayest.</item>
+               <item>4. Alwayes endeavour to carry on a proper Eng<g ref="char:EOLhyphen"/>lish style, chusing such expressions as may best suit the matter in hand.</item>
+            </list>
+         </div>
+         <div type="part">
+            <head>RƲLES for Parseing.</head>
+            <list>
+               <item>1. Reade over the Sentence distinctly, finde the Verb, and so the Nominant.</item>
+               <item>2. Enquire by your Rules, what Declension, Num<g ref="char:EOLhyphen"/>ber, Gender, Person, Species, Figure, your Nomi<g ref="char:EOLhyphen"/>nant is of.</item>
+               <item>3. Enquire of what Conjugation your Verb is, what it maketh in the perfect tense, what in the supine, what mood, tense, number, person, as also of what kinde, <hi>species</hi> and figure.</item>
+               <item>4. Take the casual word of the thing, govern it on the next word before, which cannot be left out.</item>
+               <item>5. Do the like in order, with the other casual words according to their nature and rule.</item>
+               <item>6. When you have a relative, put <hi>ille</hi> in the same
+<pb n="6" facs="tcp:207385:5"/> case, and you may see his Government by con<g ref="char:EOLhyphen"/>struing the sentence.</item>
+               <item>7. When you have an Adjective, search what de<g ref="char:EOLhyphen"/>clension it is of, what <hi>species,</hi> what degree of comparison, and what is his substantive, unless it be put absolute in the Neuter gender, for then it hath none.</item>
+            </list>
+         </div>
+         <div type="part">
+            <head>RƲLES for making Latine Grammatically.</head>
+            <list>
+               <item>1. Reade over the sentence, and if there be a Vo<g ref="char:EOLhyphen"/>cative case, or any thing in stead thereof, make that first.</item>
+               <item>2. Finde out the Nominant, see what number it is, put it in that number, and write it down.</item>
+               <item>3. If any thing depend on the Nominant, as Geni<g ref="char:EOLhyphen"/>tive case, Adjective, Gerund, or Subjunctive sen<g ref="char:EOLhyphen"/>tence, make that next. Then</item>
+               <item>4. Com to the Verb, finde what mood and tense it is, form it in that mood and tense according to its Conjugation, and put it in the same number and person the Nominant is.</item>
+               <item>5. Make next the Infinitive mood if there be one.</item>
+               <item>6. Make the casual word of the thing in the Ac<g ref="char:EOLhyphen"/>cusative case, the person in the Dative, and the rest according to your Rules.</item>
+               <item>7. If you have a Verb or Adjective, which will properly govern a case, such as <hi>Satago, memini, opus, utor, natus, &amp;c.</hi> be careful to put the right case after it.</item>
+               <pb n="7" facs="tcp:207385:5"/>
+               <item>8. When you doubt what case any Noun or Verb will govern, consult with som Author, or your Dictionary, <hi>Gowper, Thomas, &amp;c.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="part">
+            <head>RƲLES for making Latine Rhetorically.</head>
+            <list>
+               <item>1. In reading Authors mark out and remember all Latine phrases, that so when you meet with any English phrase, you may reade it in proper La<g ref="char:EOLhyphen"/>tine.</item>
+               <item>2. When you have an English phrase, and know not a Latine one, turn your phrase into Latine ac<g ref="char:EOLhyphen"/>cording to the sense, not the words.</item>
+               <item>3. Care not to render a sentence word by word; but change it so as the Latine may be hand somest, and most proper to a Latine stile.</item>
+               <item>4. Remember to cast away <hi>quod</hi> or <hi>ut,</hi> turning the Verb into the Infinitive mood: To make Ab<g ref="char:EOLhyphen"/>lative cases absolute, by casting away <hi>dum, cum, quando, si, quamquam, postquam.</hi> To expresse A<g ref="char:EOLhyphen"/>ctives sometimes by Passives: To make <hi>Have</hi> by <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>st,</hi> or <hi>suppetit,</hi> and to observe such other Gram<g ref="char:EOLhyphen"/>mar rules as have most elegancie in them.</item>
+            </list>
+         </div>
+         <div type="part">
+            <head>RƲLES for Placing Latine.</head>
+            <list>
+               <item>1. Reade the best Authors by periods, <hi>vivâ voce,</hi> thereby their strain will be secretly instilled into your mindes.</item>
+               <item>2. Avoid the craggy concourse of many conso<g ref="char:EOLhyphen"/>nants,
+<pb n="8" facs="tcp:207385:6"/> and the gaping of many vowels, and tem<g ref="char:EOLhyphen"/>per one with the other.</item>
+               <item>3. Place the word last, wherein the <hi>emphasis</hi> of the sentence lieth most, as <q>—<hi>Caesare fortiorem legimus neminem.</hi>
+                  </q>
+               </item>
+            </list>
+            <p>Where these rules permit.</p>
+            <list>
+               <item>4. Place the casual word first, the Nominant in the middle, and the Verb last, as <hi>Galliam Caesar occupavit.</hi>
+               </item>
+               <item>5. Between the Adjective and his Substantive, likewise between the Preposition and his case, put a Genitive case, as <hi>Innumeros hostium copias Caesar fudit.</hi>
+               </item>
+               <item>6. Comparatives, Superlatives, and nouns of mul<g ref="char:EOLhyphen"/>titude, must be set after their substantives, as, <hi>Sce<g ref="char:EOLhyphen"/>leratos omnes Catilina unus superavit.</hi>
+               </item>
+               <item>7. Polysyllable Adjectives elegantly begin and end sentences, as, <hi>Miserrimi sunt omnes inglorii.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="part">
+            <head>RƲLE<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Variation.</head>
+            <list>
+               <item>1. Express your sentence in proper choice, and purely Latine words.</item>
+               <item>2. By <hi>Synonyma</hi>'s, or words signifying the same thing.</item>
+               <item>3. By Tropes or Figures, <hi>viz.</hi>
+                  <list>
+                     <item>
+                        <hi>Enallage</hi>
+                     </item>
+                     <item>
+                        <hi>Periphrasis</hi>
+                     </item>
+                     <item>
+                        <hi>Allegoria</hi>
+                     </item>
+                     <item>
+                        <hi>Syncedoche</hi>
+                     </item>
+                     <item>
+                        <hi>Antonomasia</hi>
+                     </item>
+                     <item>
+                        <hi>Metaphora.</hi>
+                     </item>
+                     <item>
+                        <hi>Metonymia.</hi>
+                     </item>
+                     <item>
+                        <hi>Catachresis.</hi>
+                     </item>
+                  </list>
+               </item>
+               <pb n="9" facs="tcp:207385:6"/>
+               <item>4. Express the Active by the Passive, or Personal by Impersonal: <hi>&amp; contra.</hi>
+               </item>
+               <item>5. Change the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erbs into Verbals or Participles.</item>
+               <item>6. Express the sentence by the contrary or nega<g ref="char:EOLhyphen"/>tive.</item>
+               <item>7. Express the sentence by Interrogation, Admi<g ref="char:EOLhyphen"/>ration, <hi>Aporia,</hi> or <hi>Ironía.</hi>
+               </item>
+               <item>8. By the Rules in Grammar, as <hi>est pro habeo,</hi> Verbs Passives, &amp;c. The English of the Infini<g ref="char:EOLhyphen"/>tive mood. Gerunds turned into Adjectives, &amp;c.</item>
+            </list>
+         </div>
+         <div type="part">
+            <head>RƲLES of Amplification.</head>
+            <list>
+               <item>1. A sentence is amplified, by reckoning up all the parts included within the general heads of the Theam.</item>
+               <item>2. By handling the Antecedents, Concomitants and Consequents of things.</item>
+               <item>3. By shewing the causes, grounds or occasions of the matter in hand.</item>
+               <item>4. By <hi>Diatyposis,</hi> or a particular description of each circumstance.</item>
+               <item>5. By Digressions, or stepping aside to other matters, which notwithstanding bring light to the subject in hand.</item>
+               <item>7. By Comparisons or Similie's illustrating the Ar<g ref="char:EOLhyphen"/>gument.</item>
+               <item>8. By Congeries, or heaping up many sentences, signifying all the same thing in substance.</item>
+               <item>9. By definitions or descriptions, various in word but one in substance.</item>
+               <pb n="10" facs="tcp:207385:7"/>
+               <item>10. By Rhetorical Figures, or <hi>Prosopopeia, Apo<g ref="char:EOLhyphen"/>strophe, Periphrasis, Correctio.</hi>
+               </item>
+               <item>11. By shewing the good or evil of the contrary.</item>
+               <item>12. By producing Examples and Testimonies of Au<g ref="char:EOLhyphen"/>thors.</item>
+            </list>
+         </div>
+         <div type="part">
+            <head>RƲLES of Allusion.</head>
+            <list>
+               <item>1. It is handsom to allude to the various signifi<g ref="char:EOLhyphen"/>cations of Greek, Hebrew, Italian, Saxon, French words▪ or of any other Language, as with the He<g ref="char:EOLhyphen"/>brews <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> signifieth both an eare and a scale, which signifieth that whatsoever is heard, ought to be weighed and pondered.</item>
+               <item>2. We may allude to sentences, applying them to another matter, as I may say of love as <hi>Seneca</hi> of anger, it is a short madness.</item>
+               <item>3. We may allude to persons, as <hi>alter Hercules,</hi> an<g ref="char:EOLhyphen"/>other <hi>Alexander,</hi> such <hi>Demea</hi>'s, such <hi>Thraso</hi>'s. Thus persons notable for any vertues or vices, may be used as Appellatives.</item>
+               <item>4. We may allude to memorable actions, as He consumes his estate <hi>in extruendo mari, &amp; montibus <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>quandis. Allus.</hi> to <hi>Xerxes.</hi>
+               </item>
+               <item>5. We may allude to the manners or customes▪ of people, as the <hi>B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>otians▪</hi> used to burn the Axle-tree of the Coach that brought home a Bride, intima<g ref="char:EOLhyphen"/>ting that she being once married, there was no return to her from her husband.</item>
+               <pb n="11" facs="tcp:207385:7"/>
+               <item>6. We may allude to places, as, so full are we tatlers, that <hi>England</hi> now indeed is <hi>Psittacor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> regio.</hi>
+               </item>
+               <item>7. To the occasions of Proverbs, as▪ his Plots a as indiscoverable as if he had <hi>Gyges</hi> ring.</item>
+               <item>8. To any observable things in Nature <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Art, as Birds, Beasts, Fowls, Fishes, Plants, Stone▪ &amp;c. She is the <hi>Phoenix</hi> of the world.</item>
+            </list>
+         </div>
+         <div type="part">
+            <head>RƲLES of Imitation.</head>
+            <list>
+               <item>1. Observe the parts of such sentences as you<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> would imitate.</item>
+               <item>2. Take another subject, and make your sentences of the same parts, putting Noun for Noun, Verb for Verb, Adverb for Adverb, as, <hi>The love of money is the root of evil. The fear of God is the Spring o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Wisdom.</hi>
+               </item>
+               <item>3. When you would imitate a whole speech, striv<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to make like style, phrase, and length of periods.</item>
+               <item>4. Where the Author useth any Interrogations, Ad<g ref="char:EOLhyphen"/>mirations, Epiphonema's, Similie's, Examples, Al<g ref="char:EOLhyphen"/>lusions, Digressions, do you the like.</item>
+               <item>5. Observe from what Heads your Author fetch<g ref="char:EOLhyphen"/>eth his Arguments, as cause, effect, subject, adjunct, <hi>à pari, à minore, à majore, à simili, ab opposito, &amp;c▪</hi> and fetch yours thence also if the matter will per<g ref="char:EOLhyphen"/>mit.</item>
+               <pb n="12" facs="tcp:207385:8"/>
+               <item>
+                  <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>untains of Eloquence, whence Scholars must draw forth, and lay up matter for Exercises.</hi>
+               </item>
+            </list>
+            <p>Histories, such as are remarkable and applicable. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee <hi>Plutarch, Florus, Justin, Pliny, Aelian, Valer, Max.</hi>
+            </p>
+            <p>Fables choice and witty. See <hi>Ovids Metam. Ae<gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>p, Natal. Comes, &amp;c.</hi>
+            </p>
+            <p>Proverbs witty and best known. See <hi>Erasmus <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>biliads.</hi>
+            </p>
+            <p>Hieroglyphicks, most significant and apposite. See <hi>N. Causinus, Pierius.</hi>
+            </p>
+            <p>Emblemes, Symbols and Pictures of the Hea<g ref="char:EOLhyphen"/>thens gods. See <hi>Reusner, Quarles, Alciat.</hi>
+            </p>
+            <p>Lawes and customes of the Jewes, Greeks, Ro<g ref="char:EOLhyphen"/>mans, Egyptians, &amp;c. See <hi>Godwin, Plutarch, Ver<g ref="char:EOLhyphen"/>stegan.</hi>
+            </p>
+            <p>Ne<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t and significant Sentences out of <hi>Tacitus, Salust, Livie,</hi> and the Poets.</p>
+            <p>Rhetorical Figures▪ See <hi>Vossius, Farnaby, But<g ref="char:EOLhyphen"/>ler, Vicars.</hi>
+            </p>
+            <p>Topicks of Logick, <hi>viz.</hi> Causes, Effects, Sub<g ref="char:EOLhyphen"/>jects, Adjuncts, Contraries.</p>
+            <p>The whole <hi>Series</hi> of Natural and Artificial things, especially Pyramids, Labyrinths, Temples, Palaces, Shops of Artists, Meats, Merchandise, Stones, Plants, Fish, Fowles, Stars, &amp;c.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:207385:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
